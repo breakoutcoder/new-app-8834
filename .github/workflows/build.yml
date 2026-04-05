@@ -47,6 +47,9 @@ on:
         description: 'Ruby version'
         required: false
         default: '3.3'
+      api_url:
+        description: 'API URL'
+        required: true
 
 
 jobs:
